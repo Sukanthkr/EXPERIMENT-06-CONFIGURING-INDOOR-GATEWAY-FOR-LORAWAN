@@ -1,9 +1,4 @@
-## Name : SUKANTH KR
-## Roll No : 212224040338
-## Date : 28-10-25
-## EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
-
-
+# EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: 
 
@@ -123,28 +118,28 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 
-## OUTPUT :
-webiste login:
+## OUTPUT 
 
-<img width="1920" height="1200" alt="Screenshot 2025-10-25 030313" src="https://github.com/user-attachments/assets/b2762982-2c5d-4c65-8a22-9aade0497413" /> </br>
+## Connecting to the dragino-2e774:
+
+<img width="261" height="290" alt="image" src="https://github.com/user-attachments/assets/f8c39354-56c6-49ef-ba51-ff9462dd80bf" />
+
+
+## website Login :
+
+<img width="1920" height="1200" alt="Screenshot (698)" src="https://github.com/user-attachments/assets/52edb850-53bf-4430-a6c3-e1c52c12b4cc" />
 
 ## wifi status :
 
-<img width="1919" height="1199" alt="Screenshot 2025-10-25 092655" src="https://github.com/user-attachments/assets/ae06ac86-3daa-4fde-9b38-f6a7b26916b9" />
+<img width="1920" height="1200" alt="Screenshot (691)" src="https://github.com/user-attachments/assets/d4a5d43e-3b0f-4b55-b147-a28d8b1f9c2a" />
 
-## lora config
+## LORA configuration :
 
-<img width="1920" height="1200" alt="Screenshot 2025-10-25 025949" src="https://github.com/user-attachments/assets/9a6b7c74-a239-47da-9013-2b000c4c2179" /></br>
+<img width="1920" height="1023" alt="505574137-9a6b7c74-a239-47da-9013-2b000c4c2179" src="https://github.com/user-attachments/assets/383303ad-c335-4e1b-b70f-aa5bf30a2478" />
 
-## wifi access point
+## Wifi Access point :
 
-<img width="1919" height="1199" alt="Screenshot 2025-10-25 093656" src="https://github.com/user-attachments/assets/75251a6d-c820-4975-8914-b655f97c48ad" />
-
-
-
-
-
-
+<img width="1920" height="1200" alt="Screenshot (697)" src="https://github.com/user-attachments/assets/d87e177f-cdd2-464f-bdf3-3722fe196f15" />
 
 ## Result: 
 The Dragino LPS8 Indoor LoRaWAN Gateway was successfully configured and connected.
